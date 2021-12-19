@@ -1,0 +1,29 @@
+[
+  {
+    "Species": "Adelie",
+    "Island": "Torgersen",
+    "Beak Length (mm)": 39.1,
+    "Beak Depth (mm)": 18.7,
+    "Flipper Length (mm)": 113,
+    "Body Mass (g)": 20,
+    "Sex": "MALE"
+  },
+  {
+    "Species": "Adelie",
+    "Island": "Torgersen",
+    "Beak Length (mm)": 39.5,
+    "Beak Depth (mm)": 17.4,
+    "Flipper Length (mm)": 88,
+    "Body Mass (g)": 14,
+    "Sex": "FEMALE"
+  },
+  {
+    "Species": "Adelie",
+    "Island": "Torgersen",
+    "Beak Length (mm)": 40.3,
+    "Beak Depth (mm)": 18,
+    "Flipper Length (mm)": 58,
+    "Body Mass (g)": 5,
+    "Sex": "FEMALE"
+  }
+  ]
