@@ -1,0 +1,29 @@
+[
+  {
+    "Country": "USA",
+    "Population": "333",
+    "States (mm)": 50,
+    "Size (mm)": 9.8,
+    "Flipper Length (mm)": 113,
+    "Body Mass (g)": 20,
+    "Democracy": "MALE"
+  },
+  {
+    "Country": "China",
+    "Population": "1,400",
+    "States (mm)": 1,
+    "Size (mm)": 9.6,
+    "Flipper Length (mm)": 88,
+    "Body Mass (g)": 14,
+    "Democracy": "FEMALE"
+  },
+  {
+    "Country": "UK",
+    "Population": "67",
+    "States (mm)": 4,
+    "Size (mm)": 0.02,
+    "Flipper Length (mm)": 58,
+    "Body Mass (g)": 5,
+    "Democracy": "FEMALE"
+  }
+  ]
