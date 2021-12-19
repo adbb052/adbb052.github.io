@@ -1,0 +1,57 @@
+[
+  {
+    "Country": "USA",
+    "Population": "333",
+    "States (mm)": 50,
+    "Size (mm)": 9.8,
+    "Total Medals (m)": 113,
+    "GDP (trill)": 20,
+    "Democracy": "MALE"
+  },
+  {
+    "Country": "China",
+    "Population": "1,400",
+    "States (mm)": 1,
+    "Size (mm)": 9.6,
+    "Total Medals (m)": 88,
+    "GDP (trill)": 14,
+    "Democracy": "FEMALE"
+  },
+  {
+    "Country": "UK",
+    "Population": "67",
+    "States (mm)": 4,
+    "Size (mm)": 0.02,
+    "Total Medals (m)": 58,
+    "GDP (trill)": 5,
+    "Democracy": "FEMALE"
+  },
+  {
+    "Country": "Japan",
+    "Population": "125",
+    "States (mm)": 1,
+    "Size (mm)": 0.3,
+    "Total Medals (m)": 58,
+    "GDP (trill)": 5,
+    "Democracy": "MALE"
+  },
+  {
+    "Country": "India",
+    "Population": "1,400",
+    "States (mm)": 1,
+    "Size (mm)": 3.9,
+    "Total Medals (m)": 7,
+    "GDP (trill)": 2.6,
+    "Democracy": "MALE"
+  },
+  {
+    "Country": "Ethiopia",
+    "Population": "115",
+    "States (mm)": 1,
+    "Size (mm)": 1.1,
+    "Total Medals (m)": 4,
+    "GDP (trill)": 0.1,
+    "Democracy": "MALE"
+  }
+ 
+  ]
